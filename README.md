@@ -3,7 +3,7 @@
 
 ---
 
-### Here are my socials 📬
+### Here are my socials <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="30px">
 
 <a href="https://www.linkedin.com/in/arnavpadwal">
 <img src="linkedin.png" alt="LinkedIn" width="30"/> 
@@ -17,6 +17,8 @@
 <img src="gmail.png" alt="Twitter" width="30"/>
 </a>
 
+---
+![Arnav's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnavpadwal&show_icons=true&theme=dark)
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnavpadwal&layout=compact&theme=dark)
 ---
