@@ -10,7 +10,7 @@
 </a>
 
 <a href="https://www.x.com/ArnavPadwal">
-<img src="x.png" alt="Twitter" width="30" style="filter: invert(100%);"/>
+<img src="x.png" alt="Twitter" width="30"/>
 </a>
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=arnav.padwal7@gmail.com">
