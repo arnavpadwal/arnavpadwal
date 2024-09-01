@@ -6,7 +6,7 @@
 ### Here are my socials 📬
 
 <a href="https://www.linkedin.com/in/arnavpadwal">
-<img src="linkedin.png" alt="LinkedIn" width="30"/> Linkedin
+<img src="linkedin.png" alt="LinkedIn" width="30"/>         
 </a>
 
 <a href="https://www.x.com/ArnavPadwal">
