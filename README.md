@@ -1,4 +1,4 @@
-### Hi 👋, I am Arnav Padwal | Cyber Security Aspirant | Neighbourhood Coder
+### Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> , I am Arnav Padwal | Cyber Security Aspirant | Neighbourhood Coder
 
 
 ---
