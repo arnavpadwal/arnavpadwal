@@ -18,7 +18,8 @@
 </a>
 
 ---
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnavpadwal&layout=compact&theme=dark)
+---
 <div align="center" >
 <a  href="https://github.com/arnavpadwal">
 
