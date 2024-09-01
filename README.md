@@ -5,9 +5,9 @@
 
 ### Here are my socials 📬
 
-[![LinkedIn](http://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/arnavpadwal/)
-
-[![X](http://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/arnavpadwal7)
+[![Twitter: Arnav Padwal](https://img.shields.io/twitter/follow/arnavpadwal7?style=social)](https://twitter.com/arnavpadwal7)
+[![Linkedin: arnavpadwal](https://img.shields.io/badge/-arnavpadwal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arnavpadwal/)](https://www.linkedin.com/in/arnavpadwal/)
+[![GitHub Arnav Padwal](https://img.shields.io/github/followers/arnavpadwal?label=follow&style=social)](https://github.com/arnavpadwal)
 
 ---
 
