@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @arnavpadwal
-- 👀 I’m interested in creating programs to accomplish/automate daily tasks efficiently.
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on projects of my interest
-- 📫 You can reach me at arnav.padwal7@gmail.com
+### Hi 👋, I am Arnav Padwal | Cyber Security Aspirant | Neighbourhood Coder
 
-<!---
-arnavpadwal/arnavpadwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+---
+
+### Here are my socials 📬
+
+[![LinkedIn](http://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/arnavpadwal/)
+[![X](http://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/arnavpadwal7)
+
+---
+
+![Arnav's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnavpadwal&show_icons=true&theme=transparent)
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnavpadwal&layout=compact&theme=transparent)
