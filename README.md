@@ -5,9 +5,17 @@
 
 ### Here are my socials 📬
 
-[![Twitter: Arnav Padwal](https://img.shields.io/twitter/follow/arnavpadwal7?style=social)](https://twitter.com/arnavpadwal7)
-[![Linkedin: arnavpadwal](https://img.shields.io/badge/-arnavpadwal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arnavpadwal/)](https://www.linkedin.com/in/arnavpadwal/)
-[![GitHub Arnav Padwal](https://img.shields.io/github/followers/arnavpadwal?label=follow&style=social)](https://github.com/arnavpadwal)
+<a href="https://www.linkedin.com/in/arnavpadwal">
+<img src="img/linkedin.png" alt="LinkedIn" width="30"/>
+</a>
+
+<a href="https://www.x.com/ArnavPadwal">
+<img src="img/x.png" alt="Twitter" width="30" style="filter: invert(100%);"/>
+</a>
+
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=arnav.padwal7@gmail.com">
+<img src="img/gmail.png" alt="Twitter" width="30"/>
+</a>
 
 ---
 
@@ -16,3 +24,7 @@
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnavpadwal&layout=compact&theme=transparent)
+
+---
+
+![Visitors](https://komarev.com/ghpvc/?username=arnavpadwal&color=319e77&style=plastic)
