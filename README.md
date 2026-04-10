@@ -18,9 +18,7 @@
 </a>
 
 ---
-![Arnav's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnavpadwal&show_icons=true&theme=dark)
----
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnavpadwal&layout=compact&theme=dark)
+![Arnav's GitHub stats]([https://github-readme-stats.vercel.app/api?username=arnavpadwal&show_icons=true&theme=dark](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arnavpadwal&theme=github_dark))
 ---
 <div align="center" >
 <a  href="https://github.com/arnavpadwal">
