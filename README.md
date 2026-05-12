@@ -30,9 +30,8 @@ Maintained fork of KDE Plasma 6 blur effect with additional features (including 
 Real-time webcam control with v4l2 controls and OpenCV effects — manage your webcam feed with a clean interface. \
 [github.com/arnavpadwal/FluxCam](https://github.com/arnavpadwal/FluxCam)
 
-### 🔥 AttackSentry *(college project)*
-AI-driven Network Detection & Response (NDR) system — autonomously detects, analyzes, and mitigates threats. Built for my final year. \
-[github.com/arnavpadwal/AttackSentry](https://github.com/arnavpadwal/AttackSentry)
+### 🔥 AttackSentry
+AI-driven Network Detection & Response (NDR) system — autonomously detects, analyzes, and mitigates complex cyber threats in real-time across high-throughput environments.
 
 ---
 
@@ -50,10 +49,12 @@ Extensions for [pi](https://pi.dev) — the AI coding agent:
 
 ## 🌐 Find Me
 
-- **LinkedIn:** [linkedin.com/in/arnavpadwal](https://www.linkedin.com/in/arnavpadwal)
-- **X:** [x.com/ArnavPadwal](https://x.com/ArnavPadwal)
-- **Email:** [arnav.padwal7@gmail.com](mailto:arnav.padwal7@gmail.com)
-- **npm:** [npmjs.com/~arnavpadwal](https://www.npmjs.com/~arnavpadwal)
+<p>
+  <a href="https://www.linkedin.com/in/arnavpadwal"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
+  <a href="https://x.com/ArnavPadwal"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>&nbsp;
+  <a href="mailto:arnav.padwal7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;
+  <a href="https://www.npmjs.com/~arnavpadwal"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"></a>
+</p>
 
 ---
 
