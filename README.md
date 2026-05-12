@@ -1,6 +1,6 @@
 # Hey there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" width="32">
 
-I'm **Arnav Padwal** — a cybersecurity enthusiast, FOSS advocate, and QoL tinkerer.
+I'm **Arnav Padwal** — red teamer in training, FOSS advocate, and QoL tinkerer.
 
 > I don't write code. I *tinker* until something breaks, then tinker more until it works — and make sure no one else breaks it.
 
@@ -8,21 +8,19 @@ I'm **Arnav Padwal** — a cybersecurity enthusiast, FOSS advocate, and QoL tink
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Detective.png" width="24"> What I Do
 
-**🔐 Cybersecurity** — NDR systems, network analysis, anomaly detection, threat intelligence
+**🔴 Red Teaming** — Learning the craft: adversarial simulation, privilege escalation, evasion, active directory, C2 frameworks
+
+**🛡️ Offensive & Defensive Security** — Both sides of the kill chain. You can't defend what you don't understand, and you can't break what you haven't built.
 
 **💚 FOSS** — Linux desktop tinkering, KDE effects, privacy-first tools, open-source contributions
 
-**🛠️ QoL projects** — Tools that make life easier: universal session switchers, backup utilities, webcam controllers, auto-downloaders
+**🛠️ QoL projects** — Tools that scratch an itch: universal session switchers, backup utilities, webcam controllers, auto-downloaders
 
 **🧪 Tinkering** — If it compiles, ships it. If it doesn't, learns why until midnight.
 
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="24"> Featured Projects
-
-### 🔥 AttackSentry
-AI-driven Network Detection & Response (NDR) system — autonomously detects, analyzes, and mitigates threats in real-time across high-throughput environments. \
-[`github.com/arnavpadwal/AttackSentry`](https://github.com/arnavpadwal/AttackSentry)
 
 ### 🔐 Quantum
 End-to-end encrypted, serverless messaging app built with Flutter. No servers, no logs, no backdoors. \
@@ -36,9 +34,9 @@ Maintained fork of KDE Plasma 6 blur effect with additional features (including 
 Real-time webcam control with v4l2 controls and OpenCV effects — manage your webcam feed with a clean interface. \
 [`github.com/arnavpadwal/FluxCam`](https://github.com/arnavpadwal/FluxCam)
 
-### 🕵️ Angry Network Scanner
-All-in-one Java-based network scanning and packet analysis toolkit — aggressive scans, real-time anomaly detection via CLI. \
-[`github.com/arnavpadwal/Angry_Network_Scanner`](https://github.com/arnavpadwal/Angry_Network_Scanner)
+### 🔥 AttackSentry *(college project)*
+AI-driven Network Detection & Response (NDR) system — autonomously detects, analyzes, and mitigates threats. Built for my final year. \
+[`github.com/arnavpadwal/AttackSentry`](https://github.com/arnavpadwal/AttackSentry)
 
 ---
 
