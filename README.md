@@ -12,7 +12,7 @@ I'm **Arnav Padwal** — red teamer in training, FOSS advocate, and QoL project 
 
 **💚 FOSS** — Linux desktop, KDE effects, privacy-first tools, open-source contributions
 
-**🛠️ QoL projects** — Tools that scratch an itch: universal session switchers, backup utilities, webcam controllers, auto-downloaders
+**🛠️ QoL projects** — Extensions for agentic harnesses, KDE compositor effects, webcam enhancements, backup systems
 
 ---
 
