@@ -80,5 +80,5 @@ Extensions for [pi](https://pi.dev) - the AI coding agent:
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="40">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="40">
   <br>
-  💻 Break it → Fix it → Ship it
+  Make it work. Make it right. Make it fast.
 </p>
