@@ -22,7 +22,7 @@ I'm **Arnav Padwal** - red teamer in training, FOSS advocate, and QoL project ma
 Cross-platform mouse, keyboard, and clipboard sharing - encrypted, self-hosted, peer-to-peer software KVM switch. Seamless cursor switching with ChaCha20Poly1305 encryption and auto-discovery. Written in Rust. \
 [github.com/arnavpadwal/freemouse](https://github.com/arnavpadwal/freemouse)
 
-### <img src="https://raw.githubusercontent.com/arnavpadwal/quantum/main/web/icons/Icon-512.png" width="24"> Quantum
+### <img src="https://github.com/arnavpadwal/quantum/blob/main/assets/images/logo.png" width="24"> Quantum
 End-to-end encrypted, serverless messaging app built with Flutter. No servers, no logs, no backdoors. \
 [github.com/arnavpadwal/quantum](https://github.com/arnavpadwal/quantum)
 
