@@ -60,8 +60,12 @@ Extensions for [pi](https://pi.dev) — the AI coding agent:
 ## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arnavpadwal&show_icons=true&theme=github_dark&hide_border=true" width="50%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnavpadwal&layout=compact&theme=github_dark&hide_border=true" width="41%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arnavpadwal&theme=nord_dark" width="80%">
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arnavpadwal&theme=nord_dark" width="32%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arnavpadwal&theme=nord_dark" width="32%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arnavpadwal&theme=nord_dark" width="32%">
 </p>
 
 ---
