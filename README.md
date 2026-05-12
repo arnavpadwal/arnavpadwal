@@ -18,13 +18,11 @@ I'm **Arnav Padwal** - red teamer in training, FOSS advocate, and QoL project ma
 
 ## 🛠️ Featured Projects
 
-### 🖱️ FreeMouse
-<img src="https://raw.githubusercontent.com/arnavpadwal/freemouse/main/FreeMouse.png" width="120">
-
+### <img src="https://raw.githubusercontent.com/arnavpadwal/freemouse/main/FreeMouse.png" width="24"> FreeMouse
 Cross-platform mouse, keyboard, and clipboard sharing - encrypted, self-hosted, peer-to-peer software KVM switch. Seamless cursor switching with ChaCha20Poly1305 encryption and auto-discovery. Written in Rust. \
 [github.com/arnavpadwal/freemouse](https://github.com/arnavpadwal/freemouse)
 
-### 🔐 Quantum
+### <img src="https://raw.githubusercontent.com/arnavpadwal/quantum/main/web/icons/Icon-512.png" width="24"> Quantum
 End-to-end encrypted, serverless messaging app built with Flutter. No servers, no logs, no backdoors. \
 [github.com/arnavpadwal/quantum](https://github.com/arnavpadwal/quantum)
 
@@ -32,7 +30,7 @@ End-to-end encrypted, serverless messaging app built with Flutter. No servers, n
 Maintained fork of KDE Plasma 6 blur effect with additional features (including force blur) and bug fixes. \
 [github.com/arnavpadwal/kwin-effects-forceblur](https://github.com/arnavpadwal/kwin-effects-forceblur)
 
-### 📷 FluxCam
+### <img src="https://raw.githubusercontent.com/arnavpadwal/FluxCam/main/FluxCam_Logo/1.png" width="24"> FluxCam
 Real-time webcam control with v4l2 controls and OpenCV effects - manage your webcam feed with a clean interface. \
 [github.com/arnavpadwal/FluxCam](https://github.com/arnavpadwal/FluxCam)
 
