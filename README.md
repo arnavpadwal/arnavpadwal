@@ -1,52 +1,88 @@
-### Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> , I am Arnav Padwal | Cyber Security Aspirant | Neighbourhood Coder
+# Hey there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" width="32">
 
+I'm **Arnav Padwal** — a cybersecurity enthusiast, FOSS advocate, and QoL tinkerer.
+
+> I don't write code. I *tinker* until something breaks, then tinker more until it works — and make sure no one else breaks it.
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Detective.png" width="24"> What I Do
+
+**🔐 Cybersecurity** — NDR systems, network analysis, anomaly detection, threat intelligence
+
+**💚 FOSS** — Linux desktop tinkering, KDE effects, privacy-first tools, open-source contributions
+
+**🛠️ QoL projects** — Tools that make life easier: universal session switchers, backup utilities, webcam controllers, auto-downloaders
+
+**🧪 Tinkering** — If it compiles, ships it. If it doesn't, learns why until midnight.
 
 ---
 
-### Here are my socials <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="30px">
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="24"> Featured Projects
 
-<a href="https://www.linkedin.com/in/arnavpadwal">
-<img src="linkedin.png" alt="LinkedIn" width="30"/> 
-</a>
+### 🔥 AttackSentry
+AI-driven Network Detection & Response (NDR) system — autonomously detects, analyzes, and mitigates threats in real-time across high-throughput environments. \
+[`github.com/arnavpadwal/AttackSentry`](https://github.com/arnavpadwal/AttackSentry)
 
-<a href="https://www.x.com/ArnavPadwal">
-<img src="x.png" alt="Twitter" width="30"/>
-</a>
+### 🔐 Quantum
+End-to-end encrypted, serverless messaging app built with Flutter. No servers, no logs, no backdoors. \
+[`github.com/arnavpadwal/quantum`](https://github.com/arnavpadwal/quantum)
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=arnav.padwal7@gmail.com">
-<img src="gmail.png" alt="Twitter" width="30"/>
-</a>
+### 🌫️ kwin-effects-forceblur
+Maintained fork of KDE Plasma 6 blur effect with additional features (including force blur) and bug fixes. \
+[`github.com/arnavpadwal/kwin-effects-forceblur`](https://github.com/arnavpadwal/kwin-effects-forceblur)
+
+### 📷 FluxCam
+Real-time webcam control with v4l2 controls and OpenCV effects — manage your webcam feed with a clean interface. \
+[`github.com/arnavpadwal/FluxCam`](https://github.com/arnavpadwal/FluxCam)
+
+### 🕵️ Angry Network Scanner
+All-in-one Java-based network scanning and packet analysis toolkit — aggressive scans, real-time anomaly detection via CLI. \
+[`github.com/arnavpadwal/Angry_Network_Scanner`](https://github.com/arnavpadwal/Angry_Network_Scanner)
 
 ---
-![Arnav's GitHub stats]([https://github-readme-stats.vercel.app/api?username=arnavpadwal&show_icons=true&theme=dark](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arnavpadwal&theme=github_dark))
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" width="24"> pi Packages
+
+I also build extensions for [pi](https://pi.dev) — the AI coding agent:
+
+| Package | Install | What it does |
+|---------|---------|--------------|
+| **pi-universal-sessions** | `pi install npm:@arnavpadwal/pi-universal-sessions` | Browse, switch, delete & rename sessions across all projects |
+| **pi-backup** | `pi install npm:@arnavpadwal/pi-backup` | Full pi config backup/restore (excludes API keys) |
+| **pi-skills-onboarding** | `pi install npm:@arnavpadwal/pi-skills-onboarding` | AI-powered project onboarding analysis |
+
 ---
-<div align="center" >
-<a  href="https://github.com/arnavpadwal">
 
-<img src="[https://raw.githubusercontent.com/arnavpadwal/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arnavpadwal&theme=github_dark)" width="32.5%">
-<img src="https://raw.githubusercontent.com/arnavpadwal/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/arnavpadwal/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20Showing%20Asia-Australia.png" width="24"> Find Me
 
-</a>
+<p>
+  <a href="https://www.linkedin.com/in/arnavpadwal"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
+  <a href="https://x.com/ArnavPadwal"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>&nbsp;
+  <a href="mailto:arnav.padwal7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;
+  <a href="https://www.npmjs.com/~arnavpadwal"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"></a>
+</p>
 
-<details>
-  <summary>More stats</summary>
-  
-<img align="center" src="https://raw.githubusercontent.com/arnavpadwal/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
+---
 
-</details>
-  
-<hr></hr>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Chart%20Increasing.png" width="24"> Stats
 
-**Code Cycle**<br>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arnavpadwal&theme=nord_dark" width="80%">
+</p>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arnavpadwal&theme=nord_dark" width="32%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arnavpadwal&theme=nord_dark" width="32%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arnavpadwal&theme=nord_dark" width="32%">
+</p>
 
+---
 
-<!--img src="https://github.com/arnavpadwal/arnavpadwal/blob/main/images/this_page_is.gif?raw=true"  width="40%"/-->
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="40">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="40">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="40">
+  <br>
+  <sub>💻 Break it → Fix it → Ship it</sub>
+</p>
