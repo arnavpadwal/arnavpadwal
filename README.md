@@ -6,7 +6,7 @@ I'm **Arnav Padwal** — red teamer in training, FOSS advocate, and QoL project 
 
 ## 🔍 What I Do
 
-**🔴 Red Teaming** — Learning the craft: adversarial simulation, privilege escalation, evasion, active directory, C2 frameworks
+**🔴 Red Teaming** — Learning the craft: adversarial simulation, privilege escalation, evasion, active directory, C2 frameworks. Also into **agentic red teaming**, automation & chaining, and the **AI+cybersec** space.
 
 **🛡️ Offensive & Defensive Security** — Both sides of the kill chain. You can't defend what you don't understand, and you can't break what you haven't built.
 
