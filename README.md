@@ -30,7 +30,7 @@ End-to-end encrypted, serverless messaging app built with Flutter. No servers, n
 Maintained fork of KDE Plasma 6 blur effect with additional features (including force blur) and bug fixes. \
 [github.com/arnavpadwal/kwin-effects-forceblur](https://github.com/arnavpadwal/kwin-effects-forceblur)
 
-### <img src="https://raw.githubusercontent.com/arnavpadwal/FluxCam/main/FluxCam_Logo/logo_2.png" width="24"> FluxCam
+### <img src="https://github.com/arnavpadwal/FluxCam/blob/master/FluxCam_Logo/logo_2.png" width="24"> FluxCam
 Real-time webcam control with v4l2 controls and OpenCV effects - manage your webcam feed with a clean interface. \
 [github.com/arnavpadwal/FluxCam](https://github.com/arnavpadwal/FluxCam)
 
