@@ -18,7 +18,7 @@ I'm **Arnav Padwal** - red teamer in training, FOSS advocate, and QoL project ma
 
 ## 🛠️ Featured Projects
 
-### <img src="https://raw.githubusercontent.com/arnavpadwal/freemouse/main/FreeMouse.png" width="24"> FreeMouse
+### <img src="https://github.com/arnavpadwal/freemouse/blob/master/FreeMouse.png" width="24"> FreeMouse
 Cross-platform mouse, keyboard, and clipboard sharing - encrypted, self-hosted, peer-to-peer software KVM switch. Seamless cursor switching with ChaCha20Poly1305 encryption and auto-discovery. Written in Rust. \
 [github.com/arnavpadwal/freemouse](https://github.com/arnavpadwal/freemouse)
 
