@@ -18,13 +18,16 @@ I'm **Arnav Padwal** - red teamer in training, FOSS advocate, and QoL project ma
 
 ## 🛠️ Featured Projects
 
-### <img src="https://github.com/arnavpadwal/freemouse/blob/master/FreeMouse.png" width="24"> FreeMouse
-Cross-platform mouse, keyboard, and clipboard sharing - encrypted, self-hosted, peer-to-peer software KVM switch. Seamless cursor switching with ChaCha20Poly1305 encryption and auto-discovery. Written in Rust. \
-[github.com/arnavpadwal/freemouse](https://github.com/arnavpadwal/freemouse)
+### 🔥 AttackSentry
+AI-driven Network Detection & Response (NDR) system - autonomously detects, analyzes, and mitigates complex cyber threats in real-time across high-throughput environments.
 
 ### <img src="https://github.com/arnavpadwal/quantum/blob/main/assets/images/logo.png" width="24"> Quantum
 End-to-end encrypted, serverless messaging app built with Flutter. No servers, no logs, no backdoors. \
 [github.com/arnavpadwal/quantum](https://github.com/arnavpadwal/quantum)
+
+### <img src="https://github.com/arnavpadwal/freemouse/blob/master/FreeMouse.png" width="24"> FreeMouse
+Cross-platform mouse, keyboard, and clipboard sharing - encrypted, self-hosted, peer-to-peer software KVM switch. Seamless cursor switching with ChaCha20Poly1305 encryption and auto-discovery. Written in Rust. \
+[github.com/arnavpadwal/freemouse](https://github.com/arnavpadwal/freemouse)
 
 ### 🌫️ kwin-effects-forceblur
 Maintained fork of KDE Plasma 6 blur effect with additional features (including force blur) and bug fixes. \
@@ -33,9 +36,6 @@ Maintained fork of KDE Plasma 6 blur effect with additional features (including 
 ### <img src="https://github.com/arnavpadwal/FluxCam/blob/master/FluxCam_Logo/logo_2.png" width="24"> FluxCam
 Real-time webcam control with v4l2 controls and OpenCV effects - manage your webcam feed with a clean interface. \
 [github.com/arnavpadwal/FluxCam](https://github.com/arnavpadwal/FluxCam)
-
-### 🔥 AttackSentry
-AI-driven Network Detection & Response (NDR) system - autonomously detects, analyzes, and mitigates complex cyber threats in real-time across high-throughput environments.
 
 ---
 
