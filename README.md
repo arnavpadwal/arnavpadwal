@@ -1,53 +1,88 @@
 # Hey there 👋
 
-I'm **Arnav Padwal** - red teamer in training, FOSS advocate, and QoL project maker.
+I'm **Arnav Padwal** — Cybersecurity Specialist, Software Engineer & Technical Product Analyst.
+
+B.Tech CCE (Honours: Cybersecurity and Forensics) at KJ Somaiya, Mumbai · CGPA 8.39
+
+🔗 **[View Portfolio →](https://arnavpadwal.github.io/arnavpadwal/)**
 
 ---
 
 ## 🔍 What I Do
 
-**🔴 Red Teaming** - Learning the craft: adversarial simulation, privilege escalation, evasion, active directory, C2 frameworks. Also into **agentic red teaming**, automation & chaining, and the **AI+cybersec** space.
+**🔴 Red Teaming & VAPT** — 50+ vulnerabilities across 20+ enterprise engagements at IIFL Finance. Adversarial simulation, RASP bypass, privilege escalation, Active Directory, C2 frameworks. Also into **agentic red teaming**, automation & chaining, and the **AI+cybersec** space.
 
-**🛡️ Offensive & Defensive Security** - Both sides of the kill chain. You can't defend what you don't understand, and you can't break what you haven't built.
+**🛠️ Software Engineering** — Building hardened systems: NDR platforms (52K flows/sec), post-quantum E2EE messaging (CRYSTALS-Kyber768), cross-platform KVMs (sub-10ms), and KDE compositor effects. Rust, Flutter, Python, C++/Qt.
 
-**💚 FOSS** - Linux desktop, KDE effects, privacy-first tools, open-source contributions
+**📊 Technical Product Analysis** — Led a 37-member team at DeepCytes across AI/OSINT tool curation. Published ML researcher with an Indian patent. Building plugin ecosystems and AI coding tooling.
 
-**🛠️ QoL projects** - Extensions for agentic harnesses, KDE compositor effects, webcam enhancements, backup systems
+---
+
+## 💼 Experience
+
+| Role | Organization | Duration |
+|------|-------------|----------|
+| **VAPT Intern** | IIFL Finance, Thane | Dec 2025 – Jan 2026 |
+| **Team Lead** | DeepCytes Cyber Labs, UK | Feb 2024 – May 2025 |
+| **Project Head & Lead Developer** | TMRT, KJ Somaiya | Nov 2023 – Mar 2024 |
 
 ---
 
 ## 🛠️ Featured Projects
 
 ### 🔥 AttackSentry
-AI-driven Network Detection & Response (NDR) system - autonomously detects, analyzes, and mitigates complex cyber threats in real-time across high-throughput environments.
+AI-driven Network Detection & Response (NDR) platform — **52K+ flows/sec, 98.5% F1-score** autonomous threat detection.
 
-### <img src="https://github.com/arnavpadwal/quantum/blob/main/assets/images/logo.png" width="24"> Quantum
-End-to-end encrypted, serverless messaging app built with Flutter. No servers, no logs, no backdoors. \
+### 🔐 Quantum
+Fully serverless IPv6 P2P messaging with local-only **post-quantum E2EE** using CRYSTALS-Kyber768 and AES-256-GCM.  
 [github.com/arnavpadwal/quantum](https://github.com/arnavpadwal/quantum)
 
-### <img src="https://github.com/arnavpadwal/freemouse/blob/master/FreeMouse.png" width="24"> FreeMouse
-Cross-platform mouse, keyboard, and clipboard sharing - encrypted, self-hosted, peer-to-peer software KVM switch. Seamless cursor switching with ChaCha20Poly1305 encryption and auto-discovery. Written in Rust. \
+### ⌨️ FreeMouse
+Cross-platform software KVM with **ChaCha20-Poly1305 encryption, sub-10ms latency**. Written in Rust.  
 [github.com/arnavpadwal/freemouse](https://github.com/arnavpadwal/freemouse)
 
 ### 🌫️ kwin-effects-forceblur
-Maintained fork of KDE Plasma 6 blur effect with additional features (including force blur) and bug fixes. \
+Maintained fork of KDE Plasma 6 blur effect with force blur and bug fixes.  
 [github.com/arnavpadwal/kwin-effects-forceblur](https://github.com/arnavpadwal/kwin-effects-forceblur)
 
-### <img src="https://github.com/arnavpadwal/FluxCam/blob/master/FluxCam_Logo/logo_2.png" width="24"> FluxCam
-Real-time webcam control with v4l2 controls and OpenCV effects - manage your webcam feed with a clean interface. \
+### 📷 FluxCam
+Real-time webcam control with v4l2 controls and OpenCV effects.  
 [github.com/arnavpadwal/FluxCam](https://github.com/arnavpadwal/FluxCam)
 
 ---
 
-## 📦 pi Packages
+## 📚 Publications & Patents
 
-Extensions for [pi](https://pi.dev) - the AI coding agent:
+- **Padwal, A., et al.** "Establishing Noninvasive Predictive Models for Post–Cardiac Surgery Atrial Fibrillation Using ML." *JPC-RR*, Vol. 12, No. 3, July 2025.
+- **Padwal, A., et al.** "Surface EMG-Based Real-Time Detection of Lower Limb Activities Using ML." *ICTEAH 2025* — 95.64% accuracy, 268.2 µs inference time.
+- **Padwal, A., et al.** "A Pinch Gauge with an Adjustable Height Mechanism." *Indian Patent*, Published 2025 (Affiliated with BETiC, IIT Bombay).
 
-| Package | Install | What it does |
-|---------|---------|--------------|
-| **pi-universal-sessions** | `pi install npm:@arnavpadwal/pi-universal-sessions` | Browse, switch, delete & rename sessions across all projects |
-| **pi-backup** | `pi install npm:@arnavpadwal/pi-backup` | Full pi config backup/restore (excludes API keys) |
-| **pi-skills-onboarding** | `pi install npm:@arnavpadwal/pi-skills-onboarding` | AI-powered project onboarding analysis |
+---
+
+## 🏆 Awards
+
+- **SIH 2025 Internal Hackathon** — 4th Place (Aug 2025)
+- **Indoor Shield Badminton** — 1st Place, Singles & Doubles (Oct 2024)
+
+---
+
+## 📦 NPM Packages for AI Tooling
+
+| Package | Install |
+|---------|---------|
+| **pi-universal-sessions** | `pi install npm:@arnavpadwal/pi-universal-sessions` |
+| **pi-backup** | `pi install npm:@arnavpadwal/pi-backup` |
+| **pi-skills-onboarding** | `pi install npm:@arnavpadwal/pi-skills-onboarding` |
+
+---
+
+## 🛡️ Technical Skills
+
+**Cybersecurity:** Metasploit, Burp Suite, Nmap, OWASP ZAP, SQLMap, Hydra, Hashcat, Wireshark, Snort, Suricata, Volatility, RASP Bypass
+
+**Languages:** Python, Rust, Bash, C/C++, Dart (Flutter), JavaScript, QML, HTML/CSS
+
+**DevOps & Tools:** Docker, Git/GitHub, CI/CD, MySQL, OpenCV, TensorFlow, Linux administration
 
 ---
 
@@ -76,9 +111,5 @@ Extensions for [pi](https://pi.dev) - the AI coding agent:
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="40">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="40">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="40">
-  <br>
   Make it work. Make it right. Make it fast.
 </p>
