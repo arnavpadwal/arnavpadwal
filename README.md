@@ -103,9 +103,6 @@ Real-time webcam control with v4l2 controls and OpenCV effects.
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=arnavpadwal&theme=dark&show_icons=true&count_private=true&hide_border=true&border_radius=10&bg_color=0d1117&title_color=00e676&icon_color=4dabf7&text_color=c9d1d9" width="45%">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=arnavpadwal&theme=dark&layout=compact&hide_border=true&border_radius=10&bg_color=0d1117&title_color=00e676&text_color=c9d1d9" width="33%">
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arnavpadwal&theme=dark&hide_border=true&border_radius=10&background=0d1117&ring=00e676&fire=00e676&currStreakLabel=00e676&sideLabels=c9d1d9&dates=686888" width="45%">
-</p>
 
 ---
 
